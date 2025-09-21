@@ -1,0 +1,20 @@
+# Data besar
+*.csv
+*.parquet
+*.gz
+*.html
+data/
+
+# Virtual env
+myenv/
+.venv/
+venv/
+
+# Build artifacts
+wheelhouse/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
