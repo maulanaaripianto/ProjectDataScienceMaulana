@@ -2,8 +2,7 @@ streamlit==1.37.1
 plotly==5.24.1
 pandas==2.2.2
 numpy==1.26.4
-matplotlib==3.9.2
-statsmodels==0.14.3
-scikit-learn==1.5.2
+matplotlib==3.8.4
+statsmodels==0.14.2
 gdown==5.2.0
-pyarrow==17.0.0
+requests==2.32.3
