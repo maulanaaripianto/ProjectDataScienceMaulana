@@ -31,7 +31,6 @@ Evaluasi model dilakukan dengan **Mean Absolute Error (MAE)**, dan hasilnya:
 ### 🔗 Demo Streamlit
 👉 [Klik di sini untuk membuka Dashboard Interaktif](http://bit.ly/3VsYIzJ)
 
-## 📈 Hasil & Visualisasi
 ### Dashboard Interaktif
 ![Dashboard Investment](src/streamlit.PNG)
 
