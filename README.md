@@ -27,6 +27,9 @@ Evaluasi model dilakukan dengan **Mean Absolute Error (MAE)**, dan hasilnya:
   → Artinya rata-rata kesalahan prediksi hanya sekitar 4.32% dari nilai aktual, cukup akurat untuk forecasting makroekonomi.  
 
 ---
+## 📈 Hasil & Visualisasi
+### 🔗 Demo Streamlit
+👉 [Klik di sini untuk membuka Dashboard Interaktif](http://bit.ly/3VsYIzJ)
 
 ## 📈 Hasil & Visualisasi
 ### Dashboard Interaktif
