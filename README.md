@@ -69,13 +69,3 @@ Evaluasi model dilakukan dengan **Mean Absolute Error (MAE)**, dan hasilnya:
 ---
 
 ✍️ **Author**: Maulana  
-
-
-
-
-
-
-
-
-
-Ask ChatGPT
