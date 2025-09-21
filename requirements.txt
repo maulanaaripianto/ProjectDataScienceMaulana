@@ -6,3 +6,4 @@ matplotlib==3.8.4
 statsmodels==0.14.2
 gdown==5.2.0
 requests==2.32.3
+scipy==1.12.0
