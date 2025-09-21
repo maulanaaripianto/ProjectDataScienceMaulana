@@ -29,21 +29,13 @@ Evaluasi model dilakukan dengan **Mean Absolute Error (MAE)**, dan hasilnya:
 ---
 
 ## 📈 Hasil & Visualisasi
-1. **Tren Historis (2010–2023)**  
-   - Investasi cenderung meningkat secara stabil.  
-   - Tahun 2021–2022 terlihat lonjakan investasi cukup signifikan.  
+### Dashboard Interaktif
+![Dashboard Investment](src/streamlit.PNG)
 
-2. **Prediksi (2024–2025)**  
-   - Nilai investasi diperkirakan terus meningkat dengan rata-rata pertumbuhan kuartalan positif.  
-   - Terdapat rentang **95% Confidence Interval (CI)** yang menunjukkan tingkat ketidakpastian proyeksi.  
+### Prediksi & Forecast SARIMA
+![SARIMA Forecast](src/future kuartal.png)
 
-3. **Forecast Hingga 2027**  
-   - Model SARIMA memprediksi investasi akan tetap tumbuh hingga 2027.  
-   - Namun, terdapat fluktuasi musiman yang perlu diantisipasi pemerintah & pelaku usaha.  
-
-📊 Contoh visualisasi:  
-- Dashboard Streamlit dengan filter tahun, negara, region, dan sektor.  
-- Grafik SARIMA Prediksi & Forecast 8 Kuartal Mendatang.  
+> 📊 Grafik menunjukkan tren historis, prediksi jangka pendek, dan forecast 8 kuartal ke depan dengan interval kepercayaan 95%.
 
 ---
 
