@@ -33,7 +33,7 @@ Evaluasi model dilakukan dengan **Mean Absolute Error (MAE)**, dan hasilnya:
 ![Dashboard Investment](src/streamlit.PNG)
 
 ### Prediksi & Forecast SARIMA
-![SARIMA Forecast](src/future kuartal.png)
+![SARIMA Forecast](src/future kuartal.PNG)
 
 > 📊 Grafik menunjukkan tren historis, prediksi jangka pendek, dan forecast 8 kuartal ke depan dengan interval kepercayaan 95%.
 
